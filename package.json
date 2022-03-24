@@ -27,7 +27,7 @@
     "@ionic-native/status-bar": "^5.36.0",
     "@ionic/angular": "^4.11.13",
     "@ionic/storage": "^3.0.6",
-    "cordova-android": "^8.1.0",
+    "cordova-android": "^10.1.1",
     "cordova-browser": "^6.0.0",
     "cordova-sqlite-storage": "^3.4.1",
     "core-js": "^2.6.11",
