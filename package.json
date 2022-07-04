@@ -51,7 +51,7 @@
     "@ionic/angular-toolkit": "~2.0.0",
     "@types/jasmine": "~4.0.0",
     "@types/jasminewd2": "~2.0.3",
-    "@types/node": "~8.9.4",
+    "@types/node": "~18.0.1",
     "@types/underscore": "^1.9.4",
     "codelyzer": "^5.2.1",
     "cordova-plugin-device": "^2.0.3",
