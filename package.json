@@ -52,7 +52,7 @@
     "@types/jasmine": "~4.0.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
-    "@types/underscore": "^1.9.4",
+    "@types/underscore": "^1.11.4",
     "codelyzer": "^5.2.1",
     "cordova-plugin-device": "^2.0.3",
     "cordova-plugin-ionic-keyboard": "^2.2.0",
