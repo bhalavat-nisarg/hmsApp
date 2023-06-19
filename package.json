@@ -28,7 +28,7 @@
     "@ionic/angular": "^4.11.13",
     "@ionic/storage": "^3.0.6",
     "cordova-android": "^10.1.2",
-    "cordova-browser": "^6.0.0",
+    "cordova-browser": "^7.0.0",
     "cordova-sqlite-storage": "^6.0.0",
     "core-js": "^3.22.7",
     "firebase": "^9.8.2",
