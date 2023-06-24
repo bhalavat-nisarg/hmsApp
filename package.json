@@ -29,7 +29,7 @@
     "@ionic/storage": "^3.0.6",
     "cordova-android": "^10.1.2",
     "cordova-browser": "^7.0.0",
-    "cordova-sqlite-storage": "^6.0.0",
+    "cordova-sqlite-storage": "^6.1.0",
     "core-js": "^3.22.7",
     "firebase": "^9.8.2",
     "ngx-qrcode2": "9.0.0",
