@@ -43,7 +43,7 @@
     "@angular-devkit/architect": "~0.1700.1",
     "@angular-devkit/build-angular": "^16.1.1",
     "@angular-devkit/core": "~8.3.29",
-    "@angular-devkit/schematics": "~8.3.29",
+    "@angular-devkit/schematics": "~21.2.8",
     "@angular/cli": "~16.2.7",
     "@angular/compiler": "~8.1.2",
     "@angular/compiler-cli": "~8.1.2",
